@@ -7,11 +7,12 @@
         <title>Coba Git Remote</title>
 </head>
 <body>
-        <h1>Hello World!</h1>
-        <p>Lorem</p>
+        <h3>Hello World!</h3>
+
         <ul>
                 <li>satu</li>
                 <li>dua</li>
+                <li>tiga</li>
         </ul>
 </body>
 </html>
